@@ -1,0 +1,10 @@
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\bin\Debug\Baza_danych.dacpac
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\bin\Debug\Baza_danych.dll
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\bin\Debug\Baza_danych.pdb
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\obj\Debug\Baza_danych.sqlprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\obj\Debug\Model.xml
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\obj\Debug\refactor.xml
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\obj\Debug\postdeploy.sql
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\obj\Debug\predeploy.sql
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\obj\Debug\Baza_danych.dll
+C:\Users\mateu\source\repos\Baza_danych\Baza_danych\obj\Debug\Baza_danych.pdb
