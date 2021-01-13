@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hurtownia", "Hurtownia\Hurtownia.csproj", "{06342D79-8821-4DA0-9A5E-3924BE882317}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06342D79-8821-4DA0-9A5E-3924BE882317}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06342D79-8821-4DA0-9A5E-3924BE882317}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06342D79-8821-4DA0-9A5E-3924BE882317}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06342D79-8821-4DA0-9A5E-3924BE882317}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC616514-2308-4EE2-AB2B-50A2254064CB}
+	EndGlobalSection
+EndGlobal
